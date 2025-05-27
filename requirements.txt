@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+PyPDF2
+python-docx
+chromadb
+scikit-learn
+PyYAML
+
