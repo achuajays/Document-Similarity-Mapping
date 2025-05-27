@@ -1,3 +1,5 @@
 venv
 .env
 chroma_db
+.idea
+__pycache__
