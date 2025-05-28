@@ -1,0 +1,16 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    container_name: document_review_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+
+
+
+
+volumes:
+  chroma_data:
